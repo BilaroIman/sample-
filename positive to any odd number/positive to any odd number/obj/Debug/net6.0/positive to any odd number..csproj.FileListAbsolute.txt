@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\bin\Debug\net6.0\positive to any odd number..exe
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\bin\Debug\net6.0\positive to any odd number..deps.json
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\bin\Debug\net6.0\positive to any odd number..runtimeconfig.json
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\bin\Debug\net6.0\positive to any odd number..dll
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\bin\Debug\net6.0\positive to any odd number..pdb
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..dll
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\refint\positive to any odd number..dll
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..pdb
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\positive to any odd number..genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\positive to any odd number\positive to any odd number\obj\Debug\net6.0\ref\positive to any odd number..dll

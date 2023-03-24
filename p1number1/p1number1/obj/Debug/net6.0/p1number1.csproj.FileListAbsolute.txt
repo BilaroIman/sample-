@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\bin\Debug\net6.0\p1number1.exe
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\bin\Debug\net6.0\p1number1.deps.json
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\bin\Debug\net6.0\p1number1.runtimeconfig.json
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\bin\Debug\net6.0\p1number1.dll
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\bin\Debug\net6.0\p1number1.pdb
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.dll
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\refint\p1number1.dll
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.pdb
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\p1number1.genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\p1number1\p1number1\obj\Debug\net6.0\ref\p1number1.dll

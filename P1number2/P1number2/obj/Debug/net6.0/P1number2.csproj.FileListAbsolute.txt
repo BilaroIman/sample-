@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\bin\Debug\net6.0\P1number2.exe
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\bin\Debug\net6.0\P1number2.deps.json
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\bin\Debug\net6.0\P1number2.runtimeconfig.json
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\bin\Debug\net6.0\P1number2.dll
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\bin\Debug\net6.0\P1number2.pdb
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.dll
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\refint\P1number2.dll
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.pdb
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\P1number2.genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\P1number2\P1number2\obj\Debug\net6.0\ref\P1number2.dll

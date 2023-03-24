@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\bin\Debug\net6.0\ActivityCsharp.exe
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\bin\Debug\net6.0\ActivityCsharp.deps.json
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\bin\Debug\net6.0\ActivityCsharp.runtimeconfig.json
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\bin\Debug\net6.0\ActivityCsharp.dll
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\bin\Debug\net6.0\ActivityCsharp.pdb
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.dll
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\refint\ActivityCsharp.dll
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.pdb
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ActivityCsharp.genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\ActivityCsharp\ActivityCsharp\obj\Debug\net6.0\ref\ActivityCsharp.dll

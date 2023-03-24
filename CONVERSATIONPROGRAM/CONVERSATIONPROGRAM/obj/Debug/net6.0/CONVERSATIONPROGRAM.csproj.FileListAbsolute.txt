@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\bin\Debug\net6.0\CONVERSATIONPROGRAM.exe
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\bin\Debug\net6.0\CONVERSATIONPROGRAM.deps.json
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\bin\Debug\net6.0\CONVERSATIONPROGRAM.runtimeconfig.json
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\bin\Debug\net6.0\CONVERSATIONPROGRAM.dll
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\bin\Debug\net6.0\CONVERSATIONPROGRAM.pdb
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.dll
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\refint\CONVERSATIONPROGRAM.dll
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.pdb
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\CONVERSATIONPROGRAM.genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\CONVERSATIONPROGRAM\CONVERSATIONPROGRAM\obj\Debug\net6.0\ref\CONVERSATIONPROGRAM.dll

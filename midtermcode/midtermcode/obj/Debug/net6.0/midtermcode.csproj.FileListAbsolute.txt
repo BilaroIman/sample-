@@ -1,0 +1,15 @@
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\bin\Debug\net6.0\midtermcode.exe
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\bin\Debug\net6.0\midtermcode.deps.json
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\bin\Debug\net6.0\midtermcode.runtimeconfig.json
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\bin\Debug\net6.0\midtermcode.dll
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\bin\Debug\net6.0\midtermcode.pdb
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.csproj.AssemblyReference.cache
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.AssemblyInfoInputs.cache
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.AssemblyInfo.cs
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.csproj.CoreCompileInputs.cache
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.dll
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\refint\midtermcode.dll
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.pdb
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\midtermcode.genruntimeconfig.cache
+C:\Users\emmmanuel\source\repos\midtermcode\midtermcode\obj\Debug\net6.0\ref\midtermcode.dll
